@@ -28,6 +28,7 @@ A collection of git graph drawing implementations. Additions and corrections wel
 | [tibirna/qgit](https://github.com/tibirna/qgit) | With qgit you will be able to browse revisions history, view patch content and changed files, graphically following different development branches. | https://github.com/tibirna/qgit/blob/d0a9a73/src/lanes.cpp <br> https://github.com/tibirna/qgit/blob/0e4dc81/src/listview.cpp#L987 |
 | [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | https://github.com/JetBrains/intellij-community/tree/1cbaf4f/platform/vcs-log/graph/src/com/intellij/vcs/log/graph <br> https://github.com/JetBrains/intellij-community/tree/e10e2af/plugins/git4idea/src/git4idea/history |
 | [indigane/visual-git](https://gitlab.com/indigane/visual-git) | Open your eyes to Git. | https://gitlab.com/indigane/visual-git/-/blob/5728bc3e/frontend/js/ui/graph.js |
+| [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) | Windows/macOS/Linux GUI client for GIT users | https://github.com/sourcegit-scm/sourcegit/blob/9bccb34/src/Models/CommitGraph.cs |
 
 ## Non-Git or Git simulations
 
