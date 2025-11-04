@@ -6,6 +6,7 @@ A collection of git graph drawing implementations. Additions and corrections wel
 
 | Name | Description | Relevant code |
 | ------ | ------ | ------ |
+| [lusingander/serie](https://github.com/lusingander/serie) | A rich git commit graph in your terminal | https://github.com/lusingander/serie/blob/master/src/graph/calc.rs |
 | [mlange-42/git-graph](https://github.com/mlange-42/git-graph) | A&nbsp;command&nbsp;line&nbsp;tool&nbsp;to&nbsp;visualize&nbsp;Git&nbsp;history&nbsp;graphs&nbsp;in&nbsp;a&nbsp;comprehensible&nbsp;way, following different branching models. | https://github.com/mlange-42/git-graph/blob/f9f3c73/src/graph.rs |
 | [git log --graph](https://github.com/git/git/blob/master/graph.c) | The graph API is used to draw a text-based representation of the commit history. The API generates the graph in a line-by-line fashion. | https://github.com/git/git/blob/3eb4cc4/graph.c |
 | [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) | View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want! | https://github.com/mhutchie/vscode-git-graph/blob/4960650/web/graph.ts |
